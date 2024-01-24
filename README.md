@@ -14,7 +14,7 @@ projeto criado para o bootCamp DIO.
 
 ## Como Jogar
 
-1. Abra o arquivo: <a href="https://alandenisson.github.io/js-emoji-memory-game/" target="_blank"> clique aqui para jogar</a>
+1. Abra o arquivo: <a href="https://alandenisson.github.io/js-emoji-memory-game/" > clique aqui para jogar</a>
 2. Clique em uma carta para revelar o símbolo.
 3. Clique em outra carta para tentar encontrar o par correspondente.
 4. Continue até encontrar todos os pares de cartas idênticas.
