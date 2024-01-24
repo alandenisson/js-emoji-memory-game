@@ -4,6 +4,7 @@
 
 ## Descrição
 Este é um simples jogo da memória desenvolvido com HTML, CSS e JavaScript. O jogo consiste em encontrar todos os pares de cartas idênticas dentro de um conjunto embaralhado.
+projeto criado para o bootCamp DIO.
 
 ## Funcionalidades
 
@@ -13,7 +14,7 @@ Este é um simples jogo da memória desenvolvido com HTML, CSS e JavaScript. O j
 
 ## Como Jogar
 
-1. Abra o arquivo `index.html` no seu navegador.
+1. Abra o arquivo: <a href="https://alandenisson.github.io/js-emoji-memory-game/" :target="_blank"> clique aqui para jogar</a>
 2. Clique em uma carta para revelar o símbolo.
 3. Clique em outra carta para tentar encontrar o par correspondente.
 4. Continue até encontrar todos os pares de cartas idênticas.
